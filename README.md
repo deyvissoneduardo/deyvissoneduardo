@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+💬<h1>me about ..</h1>
+
+<p>Deyvisson Eduardo Almeida, Desenvolvedor Junior no início de sua carreira como desenvolvedor Web e Mobile man_technologist.</p>
+
+<p>Formado em Analise e Desenvolvimento de Sistemas pela Faculdade Tecnologica Senac 903 Sul, apaixonado por tecnologia desde aproximadamente 2010, mas foi em 2018 que iniciei o curso com o intuito de aprofunda conhecimentos na area de desenvolvimento.</p>
+
+<p>A partir desse ponto foquei em aperfeiçoar as melhores tecnologias para o desenvolvimento web, como o PHP e JavaScript, juntamente aos framework Angular, VueJS, Bootstrap. E também no desenvolvimento mobile nas linguagens de programação Kotlin e Flutter.</p>
+
+<p>Me identifico como uma pessoa extrovertida, com facil comunicação e aprendizado. Movido por desafios e solução de problemas, acredito que essas características agregado a habilidades técnicas, são fundamentais para desenvolvedores no cenário atual.</p>
+
+<p>Sigo diariamente em busca conhecimentos e adquirir novas habilidades que possam agregar positivamente em meus conhecimentos em inicio de carreira.</p>
+
+
+
+
+
+
 <!--
 **deyvissoneduardo/deyvissoneduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
