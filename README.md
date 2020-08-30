@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
-💬<h1>me about ..</h1>
+<h1> 💬me about ..</h1>
 
 <p>Deyvisson Eduardo Almeida, Desenvolvedor Junior no início de sua carreira como desenvolvedor Web e Mobile man_technologist.</p>
 
@@ -12,10 +12,9 @@
 
 <p>Sigo diariamente em busca conhecimentos e adquirir novas habilidades que possam agregar positivamente em meus conhecimentos em inicio de carreira.</p>
 
-
-
-
-
+- ⚡ Passionate about new mobile technologie.  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deyvissoneduardo&count_private=true&theme=buefy&show_icons=true)](https://github.com/deyvissoneduardo)
+</br>
 
 <!--
 **deyvissoneduardo/deyvissoneduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
