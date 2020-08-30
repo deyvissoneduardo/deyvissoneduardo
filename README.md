@@ -12,7 +12,7 @@
 
 <p>Sigo diariamente em busca conhecimentos e adquirir novas habilidades que possam agregar positivamente em meus conhecimentos em inicio de carreira.</p>
 
-- ⚡ Passionate about new mobile technologie.  
+- ⚡ Apaixondo por novas tecnologias  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deyvissoneduardo&count_private=true&theme=buefy&show_icons=true)](https://github.com/deyvissoneduardo)
 </br>
 
