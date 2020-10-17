@@ -2,12 +2,16 @@
 
 
 - ⚡ Apaixondo por novas tecnologias  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deyvissoneduardo&count_private=true&theme=buefy&show_icons=true)](https://github.com/deyvissoneduardo)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deyvissoneduardo&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/deyvissoneduardo)
 </br>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvissoneduardo&layout=compact)](https://github.com/deyvissoneduardo/github-readme-stats)
 
 <!--
 **deyvissoneduardo/deyvissoneduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvissoneduardo&hide_border=true&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,shell&title_color=000" align="left">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
