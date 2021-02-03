@@ -1,6 +1,6 @@
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvisson-eduardo-almeida-arouche-734936172/)](https://www.linkedin.com/in/deyvisson-eduardo-almeida-arouche-734936172)
 - ⚡ Apaixondo por novas tecnologias  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deyvissoneduardo&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/deyvissoneduardo)
 </br>
