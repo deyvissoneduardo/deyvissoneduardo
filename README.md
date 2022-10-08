@@ -30,7 +30,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Analise e Desenvolvimento de Sistemas** no <a href="https://www.df.senac.br/faculdade/">Faculdade Senac-DF</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Mobile** na <a href="https://vsaude.com.br/">vSaúde App</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
